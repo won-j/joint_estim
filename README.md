@@ -4,7 +4,8 @@ This the code repository for the paper
 
 > Kim, S. J., Lim, J., & Won, J. H. (2018). Nonparametric Sharpe Ratio Function Estimation in Heteroscedastic Regression Models via Convex Optimization. In International Conference on Artificial Intelligence and Statistics (pp. 1495-1504).
 
-available at [PMLR](http://proceedings.mlr.press/v84/kim18b.html).
+available at [the Proceedings of Machine Learning Research
+](http://proceedings.mlr.press/v84/kim18b.html).
 
 
 Here we provide codes for reproducing Examples 1 and 2, and the Term structure modeling in the paper.
